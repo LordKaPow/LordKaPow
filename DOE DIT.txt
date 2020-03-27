@@ -1,0 +1,3 @@
+Verander met @keyframes de sepia van MC
+
+Zet gloed achter de letters bij de slideshow
